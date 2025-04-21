@@ -1,0 +1,49 @@
+
+*.pyc
+__pycache__/
+db.sqlite3
+firebase/alumniconnect-b407a-firebase-adminsdk-35dto-c3375a0345.json
+firebase/connectplatform-b89b4-268988303f18.json
+firebase/alumniconnect-adminsdk.json
+firebase/alumniconnect-adminsdk.json
+firebase/*.json
+firebase/alumniconnect-adminsdk.json
+firebase/alumniconnect-b407a-firebase-adminsdk-35dto-c3375a0345.json
+# Python files
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Django migrations
+**/migrations/
+
+# Environment files
+.env
+
+# Secret keys (like Firebase / GCP)
+*.json
+
+# VSCode settings (optional)
+.vscode/
+
+# Byte-compiled files
+*.pyc
+
+# Media files
+/media/
+
+# Static files (optional, depending on use)
+staticfiles/
+
+# Node modules if you use npm
+node_modules/
+
+env/
+
+.env
+
+<<<<<<< HEAD
+Your local README content
+=======
+The GitHub repository README content
+>>>>>>> origin/main
